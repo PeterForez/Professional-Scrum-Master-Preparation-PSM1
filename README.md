@@ -99,6 +99,17 @@
       - [Question:](#question-78)
       - [Question:](#question-79)
   - [Daily Scrum](#daily-scrum)
+      - [Question:](#question-80)
+      - [Question:](#question-81)
+      - [Question:](#question-82)
+      - [Question:](#question-83)
+      - [Question:](#question-84)
+      - [Question:](#question-85)
+      - [Question:](#question-86)
+      - [Question:](#question-87)
+      - [Question:](#question-88)
+      - [Question:](#question-89)
+      - [Question:](#question-90)
   - [Sprint Review](#sprint-review)
   - [Sprint Retrospective](#sprint-retrospective)
 - [Scrum Artifacts](#scrum-artifacts)
@@ -949,14 +960,109 @@ During Sprint Planning, the Developers **must** plan the work for all days of th
 ## Daily Scrum
 The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 
-The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.
+The Daily Scrum is a `15-minute` event for the Developers of the Scrum Team. To `reduce complexity`, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers.
 
 The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work. This creates focus and improves self-management.
 
 Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
 
 The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint’s work.
+___
+#### Question:  
+Who must attend the Daily Scrum?
+(choose the best answer)
+- [ ] The Developers and the Product Owner.
+- [ ] The Scrum Team.
+- [x] The Developers.
+- [ ] The Developers and Scrum Master.
+___
+#### Question:  
+Who is allowed to participate in the Daily Scrum?
+- [ ] The key stakeholders.
+- [ ] The Scrum Master.
+- [ ] The whole Scrum Team.
+- [x] The Developers.
+- [ ] The Product Owner.
+___
+#### Question:  
+Which of the following is a valid reason for the Scrum Master to be at the Daily Scrum?
+- [ ] To update the burn-down chart.
+- [ ] To conduct the meeting, making sure that everyone answers the three questions.
+- [ ] To collect the status of the developer and, if necessary, report to the management.
+- [x] The Scrum Master does not have to be in the daily scrum; however, he or she must ensure that the developer hold it.
+___
+#### Question:  
+What is the main reason for the Scrum Master to be at the Daily Scrum?
+(choose the best answer)
+- [ ] To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down. 
+- [ ] To gather status and progress information to report to management. 
+- [ ] To make sure every team member answers the three questions. 
+- [x] They do not have to be there; they only need to ensure the Developers have a Daily Scrum.
+___
+#### Question:  
+The timebox for a Daily Scrum is?
+(choose the best answer)
+- [ ] The same time of day every day. 
+- [x] 15 minutes.
+- [ ] Two minutes per person. 
+- [ ] 4 hours. 
+- [ ] 15 minutes for a 4-week sprint. For shorter Sprints it is usually shorter. 
+___
+#### Question:  
+What's the timeboxed duration of Daily Scrums when there are 6 developers in the team and Sprints are two weeks long?
+(Select the best answer)
+- [ ] 2 minutes per developer + 2 minutes
+- [ ] 2 minutes per developer
+- [ ] As much as needed to answer the three standard questions
+- [x] 15 minutes
+___
+#### Question:  
+The time-box for a Daily Scrum for a two-week Sprint is?
+(choose the best answer)
+- [ ] Seven minutes.
+- [x] 15 minutes.
+- [ ] Four hours.
+- [ ] Three minutes per person.
+- [ ] As long as necessary to answer the three questions.
+___
+#### Question:  
+Why is the Daily Scrum held at the same time and same place?
+(choose the best answer)
+- [ ] Rooms are hard to book and this lets it be booked in advance. 
+- [ ] The place can be named. 
+- [ ] The Product Owner demands it. 
+- [x] The consistency reduces complexity.
+___
+#### Question:  
+The Scrum Guide says that Daily Scrum is held at the same time and place. Why?
+(choose the best answer)
+- [x] Such consistency reduces complexity.
+- [ ] To have it run in the team’s War Room.
+- [ ] To avoid having people arriving late.
+- [ ] To ease the process of booking rooms, since this might be challenging in large-scale organizations.
+___
+#### Question:  
+Which two statements are correct about Daily Scrums?
+(Select the best two answers)
+- [ ] Developers must answer the 3 standard questions during the meeting.
+- [ ] It's timeboxed for 2 minutes per developer.
+- [x] Only the Developers participate in the meeting.
+- [x] It's held at the same time and place every day.
+___
+#### Question:  
+What are the three classical questions of Daily Scrums, if you decide to go through them?
+(Select the best three answers)
+- [ ] Are we able to deliver all Sprint Backlog items by the end of the Sprint?
+- [ ] What problems did I have yesterday?
+- [x] What impediments are in my way or in the way of the team?
+- [ ] What is the progress of the Sprint?
+- [x] What work did I do yesterday to help the team achieve its goal?
+- [x] What work am I going to do today to help the team achieve its goal?
 
+Explanation  
+It's not mandatory to use these questions, but very common.
+They don't appear anymore on Scrum Guide 2020, but might be good to know.
+___
 ## Sprint Review
 The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
 
