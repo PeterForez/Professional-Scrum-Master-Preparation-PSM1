@@ -10,9 +10,9 @@
   - [Developers](#developers)
   - [Product Owner](#product-owner)
   - [Scrum Master](#scrum-master)
-    - [Scrum Mater and Scrum Team](#scrum-mater-and-scrum-team)
-    - [Scrum Mater and Product Owner](#scrum-mater-and-product-owner)
-    - [Scrum Mater and the organization](#scrum-mater-and-the-organization)
+    - [Helping the Scrum Team](#helping-the-scrum-team)
+    - [Helping the Product Owner](#helping-the-product-owner)
+    - [Helping the the organization](#helping-the-organization)
 - [Scrum Events](#scrum-events)
   - [The Sprint](#the-sprint)
   - [Sprint Planning](#sprint-planning)
@@ -155,7 +155,9 @@ Scrum is founded on `empiricism and lean thinking`. **Empiricism** asserts that 
 
 Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
 
-Scrum combines `four formal events` for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+Scrum combines `four formal events` for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical `Scrum pillars` of transparency, inspection, and adaptation.
+![](https://miro.medium.com/max/1212/1*L4Aw8S8616jsJnhWZBDuvA.png)
+
 <details><summary>Q&A</summary>
 
 #### Question:  
@@ -224,7 +226,7 @@ Which two of the following are pillars of Scrum?
 </details>
 
 ## Transparency 
-The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
+The emergent process and work must be `visible` to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
 
 Transparency enables inspection. Inspection without transparency is misleading and wasteful.
 <details><summary>Q&A</summary>
@@ -254,7 +256,7 @@ How regularly should Scrum users examine Scrum artifacts and progress approachin
 </details>
 
 ## Adaptation
-If any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
+If any aspects of a process `deviate` outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be `adjusted`. The adjustment must be made `as soon as possible` to minimize further deviation.
 
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
@@ -275,11 +277,11 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 
 <center>Commitment, Focus, Openness, Respect, and Courage</center>
 
-1. The Scrum Team `**commits**` to achieving its goals and to supporting each other. 
-2. Their primary `**focus**` is on the work of the Sprint to make the best possible progress toward these goals. 
-3. The Scrum Team and its stakeholders are `**open**` about the work and the challenges. 
-4. Scrum Team members `**respect**` each other to be capable, independent people, and are respected as such by the people with whom they work. 
-5. The Scrum Team members have the `**courage**` to do the right thing, to work on tough problems.
+1. The Scrum Team **`commits`** to achieving its goals and to supporting each other. 
+2. Their primary **`focus`** is on the work of the Sprint to make the best possible progress toward these goals. 
+3. The Scrum Team and its stakeholders are **`open`** about the work and the challenges. 
+4. Scrum Team members **`respect`** each other to be capable, independent people, and are respected as such by the people with whom they work. 
+5. The Scrum Team members have the **`courage`** to do the right thing, to work on tough problems.
 
 These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 
@@ -610,16 +612,16 @@ Comments: a. False, the Scrum Team is self-managed and doesn’t report progress
 The Product Owner is accountable for `maximizing the value` of the product resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
 
 The Product Owner is also accountable for effective `Product Backlog management`, which includes:
-- Developing and explicitly communicating the Product Goal;
-- Creating and clearly communicating Product Backlog items;
-- Ordering Product Backlog items; and,
-- Ensuring that the Product Backlog is transparent, visible and understood.
+- Developing and explicitly communicating the `Product Goal`;
+- Creating and clearly communicating `Product Backlog items`;
+- `Ordering` Product Backlog items; and,
+- Ensuring that the Product Backlog is `transparent`, visible and understood.
 
-The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
+The Product Owner may do the above work or may `delegate` the responsibility to others. Regardless, the Product Owner remains accountable.
 
 For Product Owners to succeed, the entire organization must respect their decisions. These decisions are visible in the content and ordering of the Product Backlog, and through the inspectable Increment at the Sprint Review.
 
-The Product Owner is one person, not a committee. The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
+The Product Owner is `one person, not a committee`. The Product Owner may represent the needs of many stakeholders in the Product Backlog. Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
 
 <details><summary>Q&A</summary>
 
@@ -722,9 +724,9 @@ Which of the following are applicable characteristics of the Product Owner?
 </details>
 
 ## Scrum Master
-The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
+The Scrum Master is accountable for `establishing Scrum` as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization.
 
-The Scrum Master is accountable for the Scrum Team’s effectiveness. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
+The Scrum Master is accountable for the `Scrum Team’s effectiveness`. They do this by enabling the Scrum Team to improve its practices, within the Scrum framework.
 
 Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
 
@@ -763,7 +765,7 @@ Explanation
 Scrum Masters are true leaders who serve the Scrum Team and the larger organization. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
 </details>
 
-### Scrum Mater and Scrum Team 
+### Helping the Scrum Team 
 
 The Scrum Master serves the Scrum Team in several ways, including:
 - `Coaching` the team members in self-management and cross-functionality;
@@ -843,7 +845,7 @@ First of all, the Scrum Master is a member of the Scrum Team, which is self-mana
 </details>
 
 
-### Scrum Mater and Product Owner 
+### Helping the Product Owner 
 The Scrum Master serves the Product Owner in several ways, including:
 - Helping find techniques for effective `Product Goal definition` and `Product Backlog management`;
 - Helping the Scrum Team understand the need for `clear and concise` Product Backlog items;
@@ -883,7 +885,7 @@ Explanation
 a. A Scrum Team is expected to adapt the moment it learns anything new through inspection. B. The Developers must be aware of the feedback and it might be necessary for the Scrum Master to coach the Product Owner on how to talk to them to avoid causing negative effects. C. There is no “testers” role in Scrum. D. Quality aspects can be treated as Product Backlog items or as part of the Definition of Done. E. No member of the Scrum Team is assumed to know everything required for solving a complex problem. For this reason, Scrum's nature is to inspect and adapt.
 </details>
 
-### Scrum Mater and the organization
+### Helping the organization
 The Scrum Master serves the organization in several ways, including:
 - Leading, training, and coaching the organization in its Scrum adoption;
 - Planning and advising Scrum implementations within the organization;
@@ -902,7 +904,7 @@ How does the Scrum Master serve the Organization?
 </details>
 
 # Scrum Events
-The Sprint is a container for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
+The Sprint is a `container` for all other events. Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt. Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
 Optimally, all events are held at the same time and place to reduce complexity.
 
 <details><summary>Q&A</summary>
@@ -1230,6 +1232,15 @@ Daily Scrums improve communications, identify impediments, promote quick decisio
 The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint’s work.
 
 <details><summary>Q&A</summary>
+
+#### Question:  
+Who is responsible for managing the progress of work during a Sprint?
+(choose the best answer)
+- [ ] The Scrum Master.
+- [ ] The most junior member of the team.
+- [x] The Developers.
+- [ ] The product owner.
+
 
 #### Question:  
 Who must attend the Daily Scrum?
