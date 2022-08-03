@@ -275,11 +275,11 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 
 <center>Commitment, Focus, Openness, Respect, and Courage</center>
 
-1. The Scrum Team **commits** to achieving its goals and to supporting each other. 
-2. Their primary **focus** is on the work of the Sprint to make the best possible progress toward these goals. 
-3. The Scrum Team and its stakeholders are **open** about the work and the challenges. 
-4. Scrum Team members **respect** each other to be capable, independent people, and are respected as such by the people with whom they work. 
-5. The Scrum Team members have the **courage** to do the right thing, to work on tough problems.
+1. The Scrum Team `**commits**` to achieving its goals and to supporting each other. 
+2. Their primary `**focus**` is on the work of the Sprint to make the best possible progress toward these goals. 
+3. The Scrum Team and its stakeholders are `**open**` about the work and the challenges. 
+4. Scrum Team members `**respect**` each other to be capable, independent people, and are respected as such by the people with whom they work. 
+5. The Scrum Team members have the `**courage**` to do the right thing, to work on tough problems.
 
 These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 
@@ -2187,7 +2187,10 @@ True or False: The Sprint for all the Scrum Teams working on the same product mu
 1. [The Scrum Guide](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
 2. [SCRUM OPEN](https://www.scrum.org/open-assessments/scrum-open)
 3. [The Scrum Guide - Audio Version - 2020](https://www.youtube.com/watch?v=G8jE3pGfGZE)
-4. [Udemy: Complete Agile Scrum Master Certification Training](https://www.udemy.com/course/complete-professional-scrum-master-training-exam-simulator/)
-5. [Udemy: Complete Agile Scrum Management + Kanban + 4 EXTRA courses](https://www.udemy.com/course/agile-management-scrum-complete/) 
-6. https://www.scrum.org/forum/scrum-forum/8028/its-not-difficult-pass-psm-1
-7. https://github.com/ambaena/scrum-psm1-cheatsheet
+4. [The Scrum Guide , November 2020 - Audio Version - Studio Quality - English](https://www.youtube.com/watch?v=w5PsdgKNbdY&t=592s)
+5. [The Scrum Guide 2020 - Audio version / Audiobook - English](https://www.youtube.com/watch?v=qJtd5jUJdFU)
+6. [Udemy: Complete Agile Scrum Master Certification Training](https://www.udemy.com/course/complete-professional-scrum-master-training-exam-simulator/)
+7. [Udemy: Complete Agile Scrum Management + Kanban + 4 EXTRA courses](https://www.udemy.com/course/agile-management-scrum-complete/) 
+8. https://www.scrum.org/forum/scrum-forum/8028/its-not-difficult-pass-psm-1
+9. https://github.com/ambaena/scrum-psm1-cheatsheet
+10. https://github.com/Ditectrev/Professional-Scrum-Developer-I-PSD-I-Exam-Dumps-Questions-Answers
